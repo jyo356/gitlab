@@ -1,0 +1,3 @@
+mkdir my-git-practice
+cd my-git-practice
+git init
